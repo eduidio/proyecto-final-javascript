@@ -1,0 +1,23 @@
+{
+    "contactos": [
+        {
+            "nombre": "Policia",
+            "telefono": "911",
+            "imagen": "./img/policia.jpg"
+        },
+        {
+            "nombre": "Defensa Civil",
+            "telefono": "103",
+            "imagen": "./img/defensa civil.jpg"
+        },
+        {
+            "nombre": "Bomberos",
+            "telefono": "100",
+            "imagen": "./img/BMimg.jpg"
+        },
+        {
+            "nombre": "Emergencia Medica",
+            "telefono": "107",
+            "imagen": "./img/EMimg.jpg"
+        }]
+}
